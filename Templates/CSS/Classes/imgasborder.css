@@ -1,0 +1,5 @@
+/* You have 3 options for the type of border (repeat / round / stretch) */
+bordered-image { 
+    border-width: 20px; border-image: url(border.png) 30 30 stretch ; 
+    -webkit-border-image: url(border.png) 30 30 stretch; 
+}

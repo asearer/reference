@@ -1,0 +1,1 @@
+variable_name = (arg1, arg2) -> expression

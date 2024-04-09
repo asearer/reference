@@ -1,0 +1,9 @@
+/* for Firefox, Safari, and Chrome */
+img { 
+    -moz-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+/ for IE /
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+/ for Opera /
+-o-transform: rotate(90deg); 
+}
